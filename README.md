@@ -1,7 +1,8 @@
-## Quickstart for GitHub Pages
-&mdash; <code><a href="https://docs.github.com/en/pages/quickstart">docs.github.com</a></code>
+## Implementasi Deep Learning Berbasis Web Untuk Pengenalan Pola
 
-Create a repository &mdash; https://github.com/xhendyagsx/xhendyagsx.github.io
+Quickstart for GitHub Pages &mdash; <code><a href="https://docs.github.com/en/pages/quickstart">docs.github.com</a></code>
+
+Create a repository &mdash; <code><a href="https://github.com/xhendyagsx/xhendyagsx.github.io">the correct repo</a></code>
 
 <kbd>
   <img src="https://user-images.githubusercontent.com/9542933/204264561-3fc2870e-1bcd-4b7e-9204-51f962de081e.png" width="800">
