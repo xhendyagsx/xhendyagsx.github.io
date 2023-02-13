@@ -1,5 +1,8 @@
 ## Implementasi Deep Learning Berbasis Web Untuk Pengenalan Pola
 
+Ini hanya sebuah halaman sebagai tujuan redirect ketika melakukan pull-to-refresh pada menu Home di aplikasi mobile web VGG16 Image Classifier di URL &mdash; <code><a href="https://xhendyagsx.github.io/myta-tfjs-ycra">https://xhendyagsx.github.io/myta-tfjs-ycra</a></code>
+
+<!--
 Quickstart for GitHub Pages &mdash; <code><a href="https://docs.github.com/en/pages/quickstart">docs.github.com</a></code>
 
 Create a repository &mdash; <code><a href="https://github.com/xhendyagsx/xhendyagsx.github.io">the correct repo</a></code>
@@ -15,3 +18,4 @@ There should be two images shown up here :point_up_2:
 ### :secret: Deploying a Simple Machine Learning Model into a WebApp using TensorFlow.js
 
 Apparently, this <code>github.io</code> approach for a web app is pretty nice. And it may give better impression to my portfolios since it is related to github ecosystem. Let me try this one &mdash; <code><a href="https://github.com/xhendyagsx/myTAKU/blob/main/github.io.md">pages.github.com</a></code>.
+-->
